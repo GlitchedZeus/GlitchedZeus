@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/GlitchedZeus/badge.svg)](https://hub.xerj.org/contributors/GlitchedZeus)
 <!--
 **GlitchedZeus/GlitchedZeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
