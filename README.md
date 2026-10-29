@@ -1,6 +1,6 @@
 <!-- Original design: custom neon-glitch SVG + a short, project-first profile. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GlitchedZeus/GlitchedZeus/main/assets/zeus-glitch-banner.svg" alt="GlitchedZeus — Switch homebrew and Pokémon tools" width="100%" />
+  <img src="https://raw.githubusercontent.com/GlitchedZeus/GlitchedZeus/main/assets/glitchedzeus-chaotic-glitch.webp" alt="GlitchedZeus — Switch homebrew and Pokémon tools" width="100%" />
 </p>
 
 <p align="center">
