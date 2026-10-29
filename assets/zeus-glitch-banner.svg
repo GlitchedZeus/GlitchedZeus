@@ -12,7 +12,12 @@
 <g clip-path="url(#portrait)">
 <image x="785" y="-43" width="362" height="351" preserveAspectRatio="none" xlink:href="https://avatars.githubusercontent.com/u/210296236?v=4"/>
 <rect x="778" y="0" width="170" height="300" fill="url(#fade)"/>
-<path d="M953 37l-62 113h56l-22 108 88-148h-55l28-73z" fill="#22d3ee" opacity=".08"/>
+<!-- Visible neon bolt fallback if GitHub suppresses external images inside SVG -->
+<path d="M953 37l-62 113h56l-22 108 88-148h-55l28-73z" fill="#22d3ee" opacity=".25"/>
+<path d="M968 31l-62 113h56l-22 108 88-148h-55l28-73z" fill="none" stroke="#d946ef" stroke-width="5" opacity=".35"/>
+<path d="M953 37l-62 113h56l-22 108 88-148h-55l28-73z" fill="none" stroke="#38f5f3" stroke-width="2.5" opacity=".8">
+  <animate attributeName="opacity" values=".75;.75;.45;.9;.75" keyTimes="0;.72;.78;.85;1" dur="6s" repeatCount="indefinite"/>
+</path>
 <rect x="836" y="69" width="238" height="3" fill="#30e9eb" opacity=".62"><animate attributeName="y" values="69;69;91;91;69" keyTimes="0;.85;.91;.94;1" dur="7s" repeatCount="indefinite"/></rect>
 <rect x="885" y="176" width="195" height="5" fill="#e336ab" opacity=".40"><animate attributeName="x" values="885;885;848;885" keyTimes="0;.77;.83;1" dur="6.4s" repeatCount="indefinite"/></rect>
 <rect x="826" y="234" width="275" height="2" fill="#15dfe6" opacity=".55"><animate attributeName="width" values="275;275;140;275" keyTimes="0;.80;.84;1" dur="5.7s" repeatCount="indefinite"/></rect>
